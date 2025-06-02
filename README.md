@@ -80,6 +80,6 @@
    ```bash
    git clone https://github.com/seu-usuario/calculadora-multifuncional-c.git
 
-## Autor
+## Autora
 ### Elda Braga
 ### Universidade Anhanguera - Ciência de Dados
