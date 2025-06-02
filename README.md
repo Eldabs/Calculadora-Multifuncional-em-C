@@ -15,20 +15,20 @@
 
 ---
 
-=====================================
-     Calculadora Multifuncional:    
-=====================================
- Digite o primeiro numero: 10
- Digite o segundo numero: 5
- Digite o terceiro numero: 2
+     =====================================
+          Calculadora Multifuncional:    
+     =====================================
+      Digite o primeiro numero: 10
+      Digite o segundo numero: 5
+      Digite o terceiro numero: 2
 
--------------------------------------
-       Operadores Aritméticos:     
--------------------------------------
- Soma: 10 + 5 + 2 = 17
- Subtracao: 10 - 5 - 2 = 3
- Multiplicacao: 10 * 5 * 2 = 100
- Divisao: 10 / 2 = 5.00
+     -------------------------------------
+            Operadores Aritméticos:     
+     -------------------------------------
+      Soma: 10 + 5 + 2 = 17
+      Subtracao: 10 - 5 - 2 = 3
+      Multiplicacao: 10 * 5 * 2 = 100
+      Divisao: 10 / 2 = 5.00
 
  ---
 
