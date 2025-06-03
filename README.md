@@ -78,7 +78,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-multifuncional-c.git
+   git clone https://github.com/eldabs/calculadora-multifuncional-c.git
 
 ## Autora
 ### Elda Braga
